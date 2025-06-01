@@ -1,5 +1,5 @@
 # Firebase-to-JSON
-Extract Firebase data (Firestore Database, Realtime Database and Storage structure) to JSON files
+A simple python code to extract Firebase data (Firestore Database, Realtime Database and Storage structure) to JSON files
 
 ## How to use:
 1. Go to Firebase console → “Project settings” → “Service accounts” → “Generate new private key” and save the JSON next to the main.py file and name it adminsdk.json
